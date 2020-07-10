@@ -7,4 +7,4 @@
 - 💬 Ask me about **Python**, I'll ask you to **leave**.
 - 📫 How to reach me: ***don't***
 - 😄 Pronouns: srsly? okay: **Apache Maven**/**Tomcat**
-- ⚡ Fun fact: This repo.
+- ⚡ Fun fact: [this](/the-communist-manifesto.md)
