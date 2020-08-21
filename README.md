@@ -22,4 +22,4 @@ Technologies I work/have worked with:
 <img height="42" src="https://julialang.org/assets/infra/logo.svg">
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=MasFlam&title_color=000000)  -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MasFlam&title_color=00000&hide=processing)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MasFlam&title_color=00000&hide=processing&layout=compact)
