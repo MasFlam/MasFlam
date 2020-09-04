@@ -22,4 +22,5 @@ Technologies I work/have worked with:
 <a href="https://julialang.org" title="Julia"><img height="42" src="https://julialang.org/assets/infra/logo.svg"></a>
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=MasFlam&title_color=000000)  -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MasFlam&title_color=00000&hide=processing&layout=compact)
+<!--<div width="100%">![](https://github-readme-stats.vercel.app/api/top-langs/?username=MasFlam&title_color=00000&hide=processing&layout=compact)</div>-->
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasFlam&title_color=00000&hide=processing&layout=compact">
