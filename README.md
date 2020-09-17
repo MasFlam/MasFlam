@@ -11,7 +11,11 @@
 -->
 
 # MasFlam
-Been coding since the inception of humanity. AKA 2013. AKA the beginning of the end lol. Almost always working on something, yet there still aren't many projects I can be proud of creating or maintaining, except maybe (currently) [RADXG](https://github.com/MasFlam/radxg).  
+I have 7 years of coding experience, including 2.5 years of Java experience and half a year of experience with the Spring framework. I code mainly in Java (and C++ at school).
+
+<!--I made [RADXG](https://github.com/MasFlam/radxg) (a tool for generating REST API documentation from XML).-->
+
+
 Technologies I work/have worked with:  
 <a href="https://git-scm.com" title="Git"><img height="34" src="https://git-scm.com/images/logo@2x.png"></a>
 <a href="https://openjdk.java.net" title="Java"><img height="42" src="https://cdn.discordapp.com/emojis/232723447321460737.png"></a>
