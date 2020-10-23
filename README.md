@@ -1,15 +1,3 @@
-<!--### This *secret* is actually pretty cool
-
-- 🔭 I’m currently working on **JModer8r** - a Discord server moderation and management bot written in Java
-- 🌱 I’m currently learning **Spring (Boot)**, **Kotlin**, **Rust**, **Haskell**
-- 👯 I’m looking to collaborate on *nothing in particular really*
-- 🤔 I’m looking for help with *nothing in particular really*
-- 💬 Ask me about **Python**, I'll ask you to **leave**.
-- 📫 How to reach me: ***don't***
-- 😄 Pronouns: srsly? okay: **Apache Maven**/**Apache Tomcat**
-- ⚡ Fun fact: [this](/the-communist-manifesto.md)
--->
-
 # MasFlam
 I have 7 years of coding experience, including 2.5 years of Java experience and half a year of experience with the Spring framework. I code mainly in Java (and C++ at school).
 
@@ -27,4 +15,4 @@ Technologies I work/have worked with:
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=MasFlam&title_color=000000)  -->
 <!--<div width="100%">![](https://github-readme-stats.vercel.app/api/top-langs/?username=MasFlam&title_color=00000&hide=processing&layout=compact)</div>-->
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasFlam&title_color=00000&hide=processing&layout=compact">
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasFlam&custom_title=My%20most%20used%20languages&title_color=00000&hide=processing,lua&layout=compact">
