@@ -6,7 +6,7 @@ person MasFlam is [
   ]
   Free software [
     Loves [ GNU/Linux, Suckless ]
-    Does [ SatoriCLI ]
+    Does [ XCBased.jl, SatoriCLI ]
   ]
   Contact [
     Website [ https://masflam.com ]
