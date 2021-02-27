@@ -13,6 +13,7 @@ person MasFlam is [
     Email [ {masflam,drukala}@masflam.com ]
     GitHub [ MasFlam ]
     Discord [ MasFlam#9512 ]
+    Matrix [ @masflam:masflam.com ]
   ]
 ]
 ```
