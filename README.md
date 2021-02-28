@@ -4,16 +4,16 @@ person MasFlam is [
     Languages [ C, C++, Java, Julia, Wren ]
     Frameworks [ Spring ]
   ]
-  Free software [
+  Free Software [
     Loves [ GNU/Linux, Suckless ]
     Does [ XCBased.jl, SatoriCLI ]
   ]
   Contact [
     Website [ https://masflam.com ]
     Email [ {masflam,drukala}@masflam.com ]
+    Matrix (❤️) [ @masflam:masflam.com ]
     GitHub [ MasFlam ]
     Discord [ MasFlam#9512 ]
-    Matrix [ @masflam:masflam.com ]
   ]
 ]
 ```
