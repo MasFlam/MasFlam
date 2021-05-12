@@ -1,6 +1,6 @@
 I use computers to make computers more useful to me and others.
 
-- Website: `https://masflam.com`
+- Website: [`https://masflam.com`](https://masflam.com)
 - Email: `{masflam,drukala}@masflam.com`
 - Matrix: `@masflam:masflam.com`
 - Discord: `MasFlam#9512`
